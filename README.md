@@ -1,5 +1,7 @@
 # PassAudit-CLI
-![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=flat&logo=python&logoColor=white)  ![Security](https://img.shields.io/badge/Audit-k--Anonymity-red?style=flat&logo=security)  ![License](https://img.shields.io/badge/License-MIT-green?style=flat)
+![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=flat&logo=python&logoColor=white)  ![Security](https://img.shields.io/badge/Audit-k--Anonymity-red?style=flat&logo=security)  ![License](https://img.shields.io/badge/License-MIT-green?style=flat) [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://thecyberyash-passaudit.streamlit.app)
+
+🔗 **Live Web Demo:** [thecyberyash-passaudit.streamlit.app](https://thecyberyash-passaudit.streamlit.app)
 
 A lightweight credential evaluation tool implementing Information Theory (Shannon Entropy) and remote breach verification using SHA-1 prefix-based k-Anonymity.
 
